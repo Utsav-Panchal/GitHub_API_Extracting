@@ -1,5 +1,5 @@
 # GitHub_API_Extracting
-extracting specific repositories  
+Extracting specific repositories  
 
 ## Installation
 pip install requests
